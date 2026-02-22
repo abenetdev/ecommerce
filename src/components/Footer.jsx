@@ -5,12 +5,12 @@ function Footer() {
     <>
       <footer>
         <div className="footer-links">
-          <a href="#">About</a>
-          <a href="#">Store locator</a>
-          <a href="#">FAQs</a>
-          <a href="#">News</a>
-          <a href="#">Careers</a>
-          <a href="#">Contact Us</a>
+          <a href="/about">About</a>
+          <a href="store-locator">Store locator</a>
+          <a href="/faqs">FAQs</a>
+          <a href="/news">News</a>
+          <a href="/carrers">Careers</a>
+          <a href="/contact-us">Contact Us</a>
         </div>
         <p className="love">
           Design &nbsp; by{" "}
@@ -18,6 +18,7 @@ function Footer() {
             target="_blank"
             rel="noreferrer"
             style={{ color: "white" }}
+            href="https://github.com/abenetdev"
           >
             &nbsp; Abenet Adugna
           </a>
