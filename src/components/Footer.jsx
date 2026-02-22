@@ -18,7 +18,6 @@ function Footer() {
             target="_blank"
             rel="noreferrer"
             style={{ color: "white" }}
-            href="https://github.com/abenetdev"
           >
             &nbsp; Abenet Adugna
           </a>
